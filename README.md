@@ -64,7 +64,17 @@ A set of applied ML/NLP case studies, each following the same workflow — busin
 | [Generous Tip Prediction](https://github.com/marehman-exe/Automatidata---Generous-Tip-Prediction) | NYC taxi tipping behavior (~22.7K records) | Leakage-aware feature engineering, GridSearchCV |
 | [Arabic Small Language Model](https://github.com/marehman-exe/Google-DeepMind---Train-A-Small-Language-Model) | Character-level Arabic NLP | Tokenization, n-gram modeling, sequence prep |
 
-*Note: these are educational/coursework-based projects — evaluated and documented with that scope in mind, including responsible-use limitations for each.*
+*Built as capstone projects for **The Nuts and Bolts of Machine Learning** certification — evaluated and documented with that scope in mind, including responsible-use limitations for each.*
+
+---
+
+### 🎓 Certifications
+
+- The Nuts and Bolts of Machine Learning
+- Data Science & Analytics
+- Python Data Analytics
+- Building with the Claude API
+- Critical Thinking in the AI Era
 
 ---
 
