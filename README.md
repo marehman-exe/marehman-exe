@@ -31,6 +31,12 @@ Still learning, building, and experimenting, one practical project at a time.
 
 ---
 
+### 📚 Currently Learning
+
+- [LangChain](https://docs.langchain.com/build-overview) — Building AI applications with LLMs, agents, retrieval, tools, and structured workflows
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Data**
