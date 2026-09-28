@@ -127,20 +127,7 @@ A set of applied ML/NLP case studies, each following the same workflow:
 - Building with the Claude API
 - Critical Thinking in the AI Era
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=marehman-exe&show_icons=true&theme=default&hide_border=true&cache_seconds=86400"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marehman-exe&layout=compact&hide_border=true&cache_seconds=86400"
-    width="42%"
-  />
-</p>
 
 ### 📫 Let's Connect
 
