@@ -18,10 +18,4 @@ I care about systems that are secure, testable, and honest about what they know.
 
 Python, SQL, FastAPI, PostgreSQL, Docker, LangChain, LangGraph, Scikit-learn, XGBoost, Pandas, React, TypeScript, Git
 
-**Activity**
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=marehman-exe&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=808080&sideNums=808080&currStreakLabel=2563EB&sideLabels=808080&dates=808080" />
-</p>
-
 I'm open to AI engineering and backend roles. The contact links on my profile are the best way to reach me.
