@@ -22,11 +22,6 @@ Python, SQL, FastAPI, PostgreSQL, Docker, LangChain, LangGraph, Scikit-learn, XG
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com/?user=marehman-exe&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakNum=808080&sideNums=808080&currStreakLabel=2563EB&sideLabels=808080&dates=808080" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marehman-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=808080&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marehman-exe&hide_border=true&color=808080&line=2563EB&point=2563EB&area=true&area_color=2563EB&bg_color=00000000" />
 </p>
 
 I'm open to AI engineering and backend roles. The contact links on my profile are the best way to reach me.
